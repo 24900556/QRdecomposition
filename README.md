@@ -23,7 +23,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ## Developed by:R.R.Madhumitha
-##RegisterNumber: 24900556
+## RegisterNumber: 24900556
 '''
 
 
